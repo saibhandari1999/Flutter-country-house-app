@@ -3,6 +3,7 @@
 Application display list of countries, we can search through them.
 after opening one country we can see 5 cards that display information from imported API.
 the card contains the capital,population, currency , flag, and location on the map.
+This also include APK file.
 
 ## about using app
 Open project in flutter normally just check all imports carefully. 
